@@ -15,7 +15,3 @@ This repository contains the code and resources for cleaning and preparing the T
 4. **Normalization/Standardization**: Normalized and standardized numerical features.
 5. **Outlier Detection and Removal**: Visualized and removed outliers from the dataset.
 
-## How to Run
-To run the data cleaning script, ensure you have Python and the required libraries installed. Then execute:
-```bash
-python data_cleaning.py
